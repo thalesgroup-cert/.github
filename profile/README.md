@@ -1,7 +1,7 @@
 # Welcome in Thales CERT GitHub organization 👋
 
 ## Open source at Thales CERT
-The purpose of this organization is to share our internally developed Tools with the Open Source Community.
+The purpose of this organization is to share our **internally developed Tools** with the **Open Source Community**.
 
 ## A few words about the Thales CERT
 The **C**omputer **E**mergency **R**esponse **T**eam (**CERT**) from **Thales** is an organization that reinforces the prevention and protection against Cyber security risks.
@@ -11,7 +11,7 @@ This organization operates according to RFC2350 which specifies the expectations
 [Thales CERT RFC 2350](https://www.thalesgroup.com/sites/default/files/database/document/2021-10/THALES%20CERT%20RFC%202350.pdf)
  
  
-Thales CERT is recognized and accredited by Trusted Introducer consortium.
+Thales CERT is recognized and accredited by [Trusted Introducer consortium](https://www.trusted-introducer.org/directory/teams/tha-cert.html).
 
 The Thales CERT is made of several experts in Cyber defense, Cyber criminality and Incident Response, encompassing forensics, network investigations and penetration testing. Our experts are certified: GIAC Forensics, Malware Reverse Engineering, Ethical Hacking, depending on their scope of responsibilities.
 
