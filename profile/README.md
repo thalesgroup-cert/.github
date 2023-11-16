@@ -6,7 +6,7 @@ The purpose of this organization is to share our **internally developed Tools** 
 ## A few words about the Thales CERT
 The **C**omputer **E**mergency **R**esponse **T**eam (**CERT**) from **Thales** is an organization that reinforces the prevention and protection against Cyber security risks.
 
-This organization operates according to RFC2350 which specifies the expectations for Computer Security Incident Response. ([Thales CERT RFC 2350](https://www.thalesgroup.com/sites/default/files/database/document/2021-10/THALES%20CERT%20RFC%202350.pdf)).
+This organization operates according to RFC 2350 which specifies the expectations for Computer Security Incident Response. ([Thales CERT RFC 2350](https://www.thalesgroup.com/sites/default/files/database/document/2021-10/THALES%20CERT%20RFC%202350.pdf)).
  
  
 Thales CERT is recognized and accredited by [**T**rusted **I**ntroducer consortium (**TI**)](https://www.trusted-introducer.org/directory/teams/tha-cert.html).
