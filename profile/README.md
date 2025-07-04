@@ -9,7 +9,7 @@ The **C**omputer **E**mergency **R**esponse **T**eam (**CERT**) from **Thales** 
 This organization operates according to RFC 2350 which specifies the expectations for Computer Security Incident Response. ([Thales CERT RFC 2350](https://www.thalesgroup.com/sites/default/files/database/document/2021-10/THALES%20CERT%20RFC%202350.pdf)).
  
  
-Thales CERT is recognized and accredited by [**T**rusted **I**ntroducer consortium (**TI**)](https://www.trusted-introducer.org/directory/teams/tha-cert.html).
+Thales CERT is recognized and accredited by [**T**rusted **I**ntroducer consortium (**TI**)](https://www.trusted-introducer.org/trusted-introducer/directory/teams/tha-cert/).
 
 Thales CERT is a member of the global [**F**orum of **I**ncident **R**esponse and **S**ecurity **T**eams (**FIRST**)](https://www.first.org/members/teams/tha-cert).
 FIRST is the premier organization and recognized global leader in incident response. Membership in FIRST enables incident response teams to more effectively respond to security incidents - reactive as well as proactive.
